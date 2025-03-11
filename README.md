@@ -18,8 +18,8 @@
 
 ### Links
 
-- Live Site URL: [Weather App](https://weather-app-vue-ks.netlify.app/)
-- Solution URL: [Weather App](https://github.com/KSnape34/weather-app-vue-ks)
+- Live Site URL: [Expense Tracker](https://expense-tracker-ks.netlify.app/)
+- Solution URL: [Expense Tracker](https://github.com/KSnape34/expense-tracker-vue-vite-ks)
 
 ## My process
 
