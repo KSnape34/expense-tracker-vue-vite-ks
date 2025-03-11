@@ -13,8 +13,8 @@
 ## Overview
 
 ### Screenshot
+![Expense Tracker](https://github.com/user-attachments/assets/222e7227-1a57-4dd4-a690-7ff314fd12c8)
 
-![](./src/assets/Weather%20App.png)
 
 ### Links
 
