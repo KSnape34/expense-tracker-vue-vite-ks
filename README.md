@@ -34,6 +34,11 @@
 - Mobile-first workflow
 - LocalStorage
 
+### Notes
+
+- Calculations with income and expenses work
+- Subject and price stored in LocalStorage but will not show up in the income list
+
 
 ## Author
 
